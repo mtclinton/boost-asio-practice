@@ -1,4 +1,7 @@
-# Prerequisites
+chat_server.cpp
+chat_message.hpp
+.idea
+.idea/# Prerequisites
 *.d
 
 # Compiled Object files
