@@ -3,6 +3,7 @@ chat_message.hpp
 .idea
 .idea/# Prerequisites
 *.d
+build
 
 # Compiled Object files
 *.slo
