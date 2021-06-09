@@ -10,3 +10,4 @@ g++ tutorial/timer5.cpp -o build/timer5 -L /usr/lib/ -lboost_system -lboost_thre
 g++ tutorial/sync_tcp_client.cpp -o build/sync_tcp_client -L /usr/lib/ -lboost_system -lboost_thread -lpthread
 g++ tutorial/sync_tcp_server.cpp -o build/sync_tcp_server -L /usr/lib/ -lboost_system -lboost_thread -lpthread
 g++ tutorial/async_tcp_server.cpp -o build/async_tcp_server -L /usr/lib/ -lboost_system -lboost_thread -lpthread
+g++ tutorial/server.cpp -o build/udp_tcp_server -L /usr/lib/ -lboost_system -lboost_thread -lpthread
